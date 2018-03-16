@@ -11,5 +11,5 @@ A curated list of Finnish organizations/companies with large branches in Finland
 | Outotec | Private | N/A |
 | Smartly | Private | N/A |
 | Telia | Public | http://digitalstyle.teliacompany.com |
-| Veikkaus | Private | N/A |
+| Veikkaus | Private | http://design.veikkaus.fi |
 | Vue Design System | Public | https://vueds.com |
