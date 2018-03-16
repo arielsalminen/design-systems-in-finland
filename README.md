@@ -10,3 +10,4 @@ A curated list of Finnish organizations that have or are actively working on a d
 | Nosto Solutions | Private | N/A |
 | Smartly | Private | N/A |
 | Veikkaus | Private | N/A |
+| Vue Design System | Public | https://vueds.com |
