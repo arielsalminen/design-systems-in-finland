@@ -5,7 +5,7 @@ A curated list of Finnish organizations/companies with large branches in Finland
 
 | Organization | Docs | URL |
 | --- | --- | --- |
-| Elisa | Private | N/A |
+| Elisa | Private | http://stylebook.elisa.fi |
 | Nordea | Private | N/A |
 | Nosto Solutions | Private | N/A |
 | Outotec | Private | N/A |
