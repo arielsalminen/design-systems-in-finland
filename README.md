@@ -8,6 +8,7 @@ A curated list of Finnish organizations/companies with large branches in Finland
 | Elisa | Public | http://stylebook.elisa.fi |
 | Nordea | Private | N/A |
 | Nosto Solutions | Private | N/A |
+| OP Ryhmä | Private | N/A |
 | Outotec | Private | N/A |
 | Smartly | Private | N/A |
 | Telia | Public | http://digitalstyle.teliacompany.com |
