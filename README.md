@@ -6,4 +6,4 @@ A curated list of Finnish organizations that have or are actively working on a d
 | Organization | Type | URL |
 | --- | --- | --- |
 | Elisa | Private | N/A |
-| 
+| Veikkaus | Private | N/A |
