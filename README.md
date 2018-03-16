@@ -10,6 +10,6 @@ A curated list of Finnish organizations/companies with large branches in Finland
 | Nosto Solutions | Private | N/A |
 | Outotec | Private | N/A |
 | Smartly | Private | N/A |
-| Telia | Private | N/A |
+| Telia | Public | http://digitalstyle.teliacompany.com |
 | Veikkaus | Private | N/A |
 | Vue Design System | Public | https://vueds.com |
