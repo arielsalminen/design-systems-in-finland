@@ -13,3 +13,4 @@ A curated list of Finnish organizations/companies with large branches in Finland
 | Telia | Public | http://digitalstyle.teliacompany.com |
 | Veikkaus | Private | http://design.veikkaus.fi |
 | Vue Design System | Public | https://vueds.com |
+| Zalando | Public | https://fabric-design.github.io/styleguide/ |
