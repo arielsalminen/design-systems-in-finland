@@ -21,4 +21,5 @@ A curated list of Finnish organizations (or companies with large branches in Fin
 | Name | Type | URL | Made by |
 | --- | --- | --- | --- |
 | Vue Design System | Open Source | https://vueds.com | [Viljami Salminen](https://viljamis.com) |
+| SC5 Style Guide Generator | Open Source | http://styleguide.sc5.io | [SC5](https://sc5.io)
  
