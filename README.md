@@ -4,7 +4,7 @@ A curated list of Finnish organizations (or companies with large branches in Fin
 
 ## Organizations
 
-| Organization | Docs | URL |
+| Organization | Status | URL |
 | --- | --- | --- |
 | Elisa | Public | http://stylebook.elisa.fi |
 | Nordea | Private | N/A |
@@ -18,7 +18,7 @@ A curated list of Finnish organizations (or companies with large branches in Fin
 
 ## Tools
 
-| Tool | Docs | URL | Made by |
+| Tool | Status | URL | Made by |
 | --- | --- | --- | --- |
-| Vue Design System | Public | https://vueds.com | [Viljami Salminen](https://viljamis.com) |
+| Vue Design System | Open Source | https://vueds.com | [Viljami Salminen](https://viljamis.com) |
  
