@@ -18,6 +18,7 @@ A curated list of Finnish organizations (or companies with large branches in Fin
 
 ## Tools
 
-| Tool | Docs | URL |
-| --- | --- | --- |
-| Vue Design System | Public | https://vueds.com |
+| Tool | Docs | URL | Made by |
+| --- | --- | --- | --- |
+| Vue Design System | Public | https://vueds.com | [Viljami Salminen](https://viljamis.com) |
+ 
