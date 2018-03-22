@@ -11,9 +11,9 @@ There isn’t a standard definition of “design system” within our community,
 | Name | Type | URL | Notes
 | --- | --- | --- | --- |
 | [Elisa](https://elisa.fi) | Public | http://stylebook.elisa.fi | |
-| [Fortum](https://www.fortum.fi) | Private | N/A | Fortum Elemental System |
+| [Fortum](https://www.fortum.fi) | Private | N/A | Fortum Elemental System, WIP |
 | [Nordea](https://www.nordea.fi) | Private | N/A | |
-| [Nosto Solutions](http://www.nosto.com) | Private | N/A | |
+| [Nosto Solutions](http://www.nosto.com) | Private | N/A | WIP |
 | [OP Ryhmä](https://uusi.op.fi) | Private | N/A | |
 | [Oura](https://ouraring.com) | Private | N/A | |
 | [Outotec](http://www.outotec.fi) | Private | N/A | |
@@ -22,6 +22,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Umbra](https://umbra3d.com) | Private | N/A | |
 | [Veikkaus](https://www.veikkaus.fi) | Private | http://design.veikkaus.fi | URL is shown in some blog posts, but doesn’t seem to be public(?) |
 | [Verkkokauppa](https://www.verkkokauppa.com) | Private | N/A | |
+| [Yhdistysavain](https://www.yhdistysavain.fi) | Private | N/A | WIP for 2.0 release |
 | [Zalando](https://www.zalando.fi) | Open Source | https://fabric-design.github.io/styleguide/ | |
 
 ## Tools
