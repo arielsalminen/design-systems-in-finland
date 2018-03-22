@@ -13,7 +13,7 @@ A curated list of Finnish organizations (or companies with large branches in Fin
 | [Outotec](http://www.outotec.fi) | Private | N/A | |
 | [Smartly](https://www.smartly.io) | Private | N/A | |
 | [Telia](https://www.telia.fi) | Private | http://digitalstyle.teliacompany.com | Only pattern library is public(?) |
-| [Veikkaus](https://www.veikkaus.fi) | Private | http://design.veikkaus.fi | |
+| [Veikkaus](https://www.veikkaus.fi) | Private | http://design.veikkaus.fi | URL is shown in some blog posts, but doesn’t seem to be public(?) |
 | [Verkkokauppa](https://www.verkkokauppa.com) | Private | N/A | |
 | [Zalando](https://www.zalando.fi) | Open Source | https://fabric-design.github.io/styleguide/ | |
 
