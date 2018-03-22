@@ -14,6 +14,7 @@ A curated list of Finnish organizations (or companies with large branches in Fin
 | Smartly | Private | N/A |
 | Telia | Public | http://digitalstyle.teliacompany.com |
 | Veikkaus | Private | http://design.veikkaus.fi |
+| Verkkokauppa | Private | N/A |
 | Zalando | Open Source | https://fabric-design.github.io/styleguide/ |
 
 ## Tools
