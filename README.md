@@ -4,7 +4,7 @@ A curated list of Finnish organizations _(or companies with large branches in Fi
 
 ## What is a Design System?
 
-There isn’t a standard definition of “design system” within our community, and people use the term in different ways. For the purposes of this list, a “design system” is a set of interconnected tools, patters, and shared practices that are coherently organized to achieve the purpose of digital products. Design system enables teams to build better products faster by making design reusable.
+There isn’t a standard definition of “design system” within our community, and people use the term in different ways. For the purposes of this list, a “design system” is a set of interconnected tools, patters, and shared practices that are coherently organized to achieve the purpose of digital products. A design system enables teams to build better products faster by making design reusable — reusability makes scale possible.
 
 ## Organizations
 
