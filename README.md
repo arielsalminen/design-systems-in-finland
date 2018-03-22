@@ -2,6 +2,10 @@
 
 A curated list of Finnish organizations _(or companies with large branches in Finland)_ that have or are actively working on a design system. Know a resource that isn't listed below? Feel free to [create a new pull request](https://github.com/viljamis/design-systems-in-finland/compare), or [open an issue](https://github.com/viljamis/design-systems-in-finland/issues/new).
 
+## What is a Design System?
+
+There isn’t a standard definition of “design system” within our community, and people use the term in different ways. For the purposes of this list, a “design system” is a set of interconnected tools, patters, and shared practices that are coherently organized to achieve the purpose of digital products. Design system enables teams to build better products faster by making design reusable.
+
 ## Organizations
 
 | Name | Type | URL | Notes
