@@ -33,5 +33,5 @@ There isn’t a standard definition of “design system” within our community,
 | --- | --- | --- | --- | --- |
 | [SC5 Style Guide Generator](http://styleguide.sc5.io) | Open Source | http://styleguide.sc5.io | [SC5](https://sc5.io) | While this is a style guide generator, it could be used as a part of a bigger system |
 | [Vaadin](https://vaadin.com/) | Open Source + Paid plan | https://vaadin.com/ | [Vaadin](https://vaadin.com/) | Development platform for front-end and back-end devs |
-| [Vue Design System](https://vueds.com) | Open Source | https://vueds.com | [Viljami Salminen](https://viljamis.com) | |
+| [Vue Design System](https://vueds.com) | Open Source | https://vueds.com | [Viljami Salminen](https://viljamis.com) | An open source tool for building Design Systems with Vue.js |
  
