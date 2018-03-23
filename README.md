@@ -25,7 +25,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Veikkaus](https://www.veikkaus.fi) | Private | http://design.veikkaus.fi | URL is shown in some blog posts, but doesn’t seem to be public(?) |
 | [Verkkokauppa](https://www.verkkokauppa.com) | Private | N/A | |
 | [Yhdistysavain](https://www.yhdistysavain.fi) | Private | N/A | WIP for 2.0 release |
-| [Zalando](https://www.zalando.fi) | Open Source | https://fabric-design.github.io/styleguide/ | |
+| [Zalando](https://www.zalando.fi) | Open Source | https://fabric-design.github.io/styleguide/ | Zalando has active dev hub in Helsinki |
 
 ## Tools
 
