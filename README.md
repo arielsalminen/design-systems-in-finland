@@ -19,7 +19,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Oura](https://ouraring.com) | Private | N/A | |
 | [Outotec](http://www.outotec.fi) | Private | N/A | |
 | [Smartly](https://www.smartly.io) | Private | N/A | |
-| [Telia](https://www.telia.fi) | Private | http://digitalstyle.teliacompany.com | Only pattern library is public(?) |
+| [Telia](https://www.telia.fi) | Public/Private | http://digitalstyle.teliacompany.com | Only pattern library is public(?) |
 | [Umbra](https://umbra3d.com) | Private | N/A | For Web, iOS and AR (Hololens) |
 | [Vaisala](https://www.vaisala.com/en) | Private | N/A | |
 | [Veikkaus](https://www.veikkaus.fi) | Private | http://design.veikkaus.fi | URL is shown in some blog posts, but doesn’t seem to be public(?) |
