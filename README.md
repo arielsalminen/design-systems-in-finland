@@ -13,6 +13,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Elisa](https://elisa.fi) | Public | http://stylebook.elisa.fi | |
 | [Fortum](https://www.fortum.fi) | Private | N/A | Fortum Elemental System, WIP |
 | [Kesko](https://www.kesko.fi) | Private | N/A | WIP |
+| [Lähitapiola](https://www.lahitapiola.fi) | Private | N/A | WIP |
 | [Nordea](https://www.nordea.fi) | Private | N/A | |
 | [Nosto Solutions](http://www.nosto.com) | Private | N/A | WIP |
 | [OP Ryhmä](https://uusi.op.fi) | Private | N/A | |
