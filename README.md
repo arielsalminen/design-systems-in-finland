@@ -10,6 +10,7 @@ There isn’t a standard definition of “design system” within our community,
 
 | Name | Type | URL | Notes
 | --- | --- | --- | --- |
+| [Aalto](https://www.aalto.fi/) | Public | https://www.aalto.fi/visual-library | 
 | [Elisa](https://elisa.fi) | Public | http://stylebook.elisa.fi | |
 | [Fortum](https://www.fortum.fi) | Private | N/A | Fortum Elemental System, WIP |
 | [Kesko](https://www.kesko.fi) | Private | N/A | WIP |
