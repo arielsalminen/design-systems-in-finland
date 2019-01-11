@@ -23,6 +23,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Posti](https://www.posti.fi) | Private | N/A | WIP |
 | [RELEX](http://www.relex.fi) | Private | N/A | Fragments, WIP |
 | [Smartly](https://www.smartly.io) | Private | N/A | |
+| [Stora Enso](https://www.storaenso.com/en) | Private | N/A | |
 | [Telia](https://www.telia.fi) | Public/Private | http://digitalstyle.teliacompany.com | Only pattern library is public(?) |
 | [Umbra](https://umbra3d.com) | Private | N/A | For Web, iOS and AR (Hololens) |
 | [Vaisala](https://www.vaisala.com/en) | Private | N/A | |
