@@ -20,6 +20,7 @@ There isn’t a standard definition of “design system” within our community,
 | [OP Ryhmä](https://uusi.op.fi) | Private | N/A | |
 | [Oura](https://ouraring.com) | Private | N/A | |
 | [Outotec](http://www.outotec.fi) | Private | N/A | |
+| [Posti](https://www.posti.fi) | Private | N/A | WIP |
 | [RELEX](http://www.relex.fi) | Private | N/A | Fragments, WIP |
 | [Smartly](https://www.smartly.io) | Private | N/A | |
 | [Telia](https://www.telia.fi) | Public/Private | http://digitalstyle.teliacompany.com | Only pattern library is public(?) |
