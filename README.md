@@ -13,6 +13,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Aalto](https://www.aalto.fi/) | Public | https://www.aalto.fi/visual-library | 
 | [ABB](https://new.abb.com/fi) | Private | N/A | 
 | [Elisa](https://elisa.fi) | Public | http://stylebook.elisa.fi | |
+| [F-Secure](https://www.f-secure.com) | Private | N/A |
 | [Fortum](https://www.fortum.fi) | Private | N/A | Fortum Elemental System, WIP |
 | [Kesko](https://www.kesko.fi) | Private | N/A | WIP |
 | [Lähitapiola](https://www.lahitapiola.fi) | Private | N/A | WIP |
