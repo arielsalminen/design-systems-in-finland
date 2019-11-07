@@ -27,15 +27,16 @@ There isn’t a standard definition of “design system” within our community,
 | [RELEX](http://www.relex.fi) | Private | N/A | Fragments, WIP |
 | [Smartly](https://www.smartly.io) | Private | N/A | |
 | [Stora Enso](https://www.storaenso.com/en) | Public | https://designsystem.storaenso.com/ | |
+| [Suomi.fi](https://designsystem.suomi.fi/fi/) | Public | https://designsystem.suomi.fi/fi/ | Open Source |
 | [Telia](https://www.telia.fi) | Public/Private | http://digitalstyle.teliacompany.com | Only pattern library is public(?) |
 | [Turva](https://www.turva.fi) | Public | https://www.duetds.com/?theme=turva |
 | [Umbra](https://umbra3d.com) | Private | N/A | For Web, iOS and AR (Hololens) |
-| [University of Helsinki](https://www.helsinki.fi/en) | [Open Source](https://github.com/UniversityofHelsinki/Styleguide) | https://universityofhelsinki.github.io/Styleguide/ | |
+| [University of Helsinki](https://www.helsinki.fi/en) | Public | https://universityofhelsinki.github.io/Styleguide/ | [Open Source](https://github.com/UniversityofHelsinki/Styleguide)  |
 | [Vaisala](https://www.vaisala.com/en) | Private | N/A | |
 | [Veikkaus](https://www.veikkaus.fi) | Private | http://design.veikkaus.fi | URL is shown in some blog posts, but doesn’t seem to be public(?) |
 | [Verkkokauppa](https://www.verkkokauppa.com) | Private | N/A | |
 | [Yhdistysavain](https://www.yhdistysavain.fi) | Private | N/A | WIP for 2.0 release |
-| [Zalando](https://www.zalando.fi) | Open Source | https://fabric-design.github.io/styleguide/ | Zalando has active dev hub in Helsinki |
+| [Zalando](https://www.zalando.fi) | Public | https://fabric-design.github.io/styleguide/ | Open Source |
 
 ## Tools
 
