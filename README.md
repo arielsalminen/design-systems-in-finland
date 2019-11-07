@@ -10,8 +10,8 @@ There isn’t a standard definition of “design system” within our community,
 
 | Name | Type | URL | Notes
 | --- | --- | --- | --- |
-| [Aalto](https://www.aalto.fi/) | Public | https://www.aalto.fi/visual-library | 
-| [ABB](https://new.abb.com/fi) | Private | N/A | 
+| [Aalto](https://www.aalto.fi/) | Public | https://www.aalto.fi/visual-library |
+| [ABB](https://new.abb.com/fi) | Private | N/A |
 | [Elisa](https://elisa.fi) | Public | http://stylebook.elisa.fi | |
 | [F-Secure](https://www.f-secure.com) | Private | N/A |
 | [Fortum](https://www.fortum.fi) | Private | N/A | Fortum Elemental System, WIP |
@@ -28,6 +28,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Stora Enso](https://www.storaenso.com/en) | Private | N/A | |
 | [Telia](https://www.telia.fi) | Public/Private | http://digitalstyle.teliacompany.com | Only pattern library is public(?) |
 | [Umbra](https://umbra3d.com) | Private | N/A | For Web, iOS and AR (Hololens) |
+| [University of Helsinki](https://www.helsinki.fi/en) | [Open Source](https://github.com/UniversityofHelsinki/Styleguide) | https://universityofhelsinki.github.io/Styleguide/ | |
 | [Vaisala](https://www.vaisala.com/en) | Private | N/A | |
 | [Veikkaus](https://www.veikkaus.fi) | Private | http://design.veikkaus.fi | URL is shown in some blog posts, but doesn’t seem to be public(?) |
 | [Verkkokauppa](https://www.verkkokauppa.com) | Private | N/A | |
@@ -42,4 +43,4 @@ There isn’t a standard definition of “design system” within our community,
 | [Gridlover](https://www.gridlover.net) | Open Source | https://www.gridlover.net | [@tuomasj](https://twitter.com/tuomasj), [@sakamies](https://twitter.com/sakamies) | Establish a typographic system with modular scale & vertical rhythm. |
 | [Vaadin](https://vaadin.com/) | Open Source + Paid plan | https://vaadin.com/ | [Vaadin](https://vaadin.com/) | Development platform for front-end and back-end devs |
 | [Vue Design System](https://vueds.com) | Open Source | https://vueds.com | [@viljamis](https://twitter.com/viljamis) | An open source tool for building Design Systems with Vue.js |
- 
+
