@@ -16,6 +16,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Elisa](https://elisa.fi) | Public | http://stylebook.elisa.fi | |
 | [F-Secure](https://www.f-secure.com) | Private | N/A |
 | [Fortum](https://www.fortum.fi) | Private | N/A | Fortum Elemental System, WIP |
+| [City of Helsinki](http://www.hel.fi/) | Public | http://hds.hel.fi | In alpha. [Open source](https://github.com/City-of-Helsinki/helsinki-design-system) |
 | [Kesko](https://www.kesko.fi) | Private | N/A | WIP |
 | [Lähitapiola](https://www.lahitapiola.fi) | Public | https://www.duetds.com |
 | [Nordea](https://www.nordea.fi) | Private | N/A | |
