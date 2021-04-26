@@ -20,6 +20,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Kesko](https://www.kesko.fi) | Private | N/A | WIP |
 | [Lähitapiola](https://www.lahitapiola.fi) | Public | https://www.duetds.com |
 | [Nordea](https://www.nordea.fi) | Private | N/A | |
+| [Nordhealth](https://nordhealth.com) | Public | https://nordhealth.design | WIP |
 | [Nosto Solutions](http://www.nosto.com) | Private | N/A | WIP |
 | [OP Ryhmä](https://uusi.op.fi) | Private | N/A | |
 | [Oura](https://ouraring.com) | Private | N/A | |
