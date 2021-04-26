@@ -28,7 +28,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Smartly](https://www.smartly.io) | Private | N/A | |
 | [Stora Enso](https://www.storaenso.com/en) | Public | https://designsystem.storaenso.com/ | |
 | [Suomi.fi](https://designsystem.suomi.fi/fi/) | Public | https://designsystem.suomi.fi/fi/ | Open Source |
-| [Telia](https://www.telia.fi) | Public/Private | http://digitalstyle.teliacompany.com | Only pattern library is public(?) |
+| [Telia](https://www.telia.fi) | Public | https://teliads.netlify.app/ | [WIP](https://www.npmjs.com/package/@teliads/components)  |
 | [Turva](https://www.turva.fi) | Public | https://www.duetds.com/?theme=turva |
 | [Umbra](https://umbra3d.com) | Private | N/A | For Web, iOS and AR (Hololens) |
 | [University of Helsinki](https://www.helsinki.fi/en) | Public | https://universityofhelsinki.github.io/Styleguide/ | [Open Source](https://github.com/UniversityofHelsinki/Styleguide)  |
