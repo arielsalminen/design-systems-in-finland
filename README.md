@@ -1,6 +1,6 @@
 # Design Systems in Finland
 
-A curated list of Finnish organizations _(or companies with large branches in Finland)_ that have or are actively working on a design system. Know a resource that isn't listed below? Feel free to [create a new pull request](https://github.com/viljamis/design-systems-in-finland/compare), or [open an issue](https://github.com/viljamis/design-systems-in-finland/issues/new).
+A curated list of Finnish organizations _(or companies with large branches in Finland)_ that have or are actively working on a design system. Know a resource that isn't listed below? Feel free to [create a new pull request](https://github.com/arielsalminen/design-systems-in-finland/compare), or [open an issue](https://github.com/arielsalminen/design-systems-in-finland/issues/new).
 
 ## What is a Design System?
 
@@ -48,5 +48,5 @@ There isn’t a standard definition of “design system” within our community,
 | [SC5 Style Guide Generator](http://styleguide.sc5.io) | Open Source | http://styleguide.sc5.io | [SC5](https://sc5.io) | While this is a style guide generator, it could be used as a part of a bigger system |
 | [Gridlover](https://www.gridlover.net) | Open Source | https://www.gridlover.net | [@tuomasj](https://twitter.com/tuomasj), [@sakamies](https://twitter.com/sakamies) | Establish a typographic system with modular scale & vertical rhythm. |
 | [Vaadin](https://vaadin.com/) | Open Source + Paid plan | https://vaadin.com/ | [Vaadin](https://vaadin.com/) | Development platform for front-end and back-end devs |
-| [Vue Design System](https://vueds.com) | Open Source | https://vueds.com | [@viljamis](https://twitter.com/viljamis) | An open source tool for building Design Systems with Vue.js |
+| [Vue Design System](https://vueds.com) | Open Source | https://vueds.com | [@ariel](https://social.design.systems/@ariel) | An open source tool for building Design Systems with Vue.js |
 
