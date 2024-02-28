@@ -37,7 +37,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Umbra](https://umbra3d.com) | Private | N/A | For Web, iOS and AR (Hololens) |
 | [University of Helsinki](https://www.helsinki.fi/en) | Public | https://universityofhelsinki.github.io/Styleguide/ | [Open Source](https://github.com/UniversityofHelsinki/Styleguide)  |
 | [Vaisala](https://www.vaisala.com/en) | Private | N/A | |
-| [Veikkaus](https://www.veikkaus.fi) | Private | http://design.veikkaus.fi | URL is shown in some blog posts, but doesn’t seem to be public(?) |
+| [Veikkaus](https://www.veikkaus.fi) | Private | http://design.veikkaus.fi | |
 | [Verkkokauppa](https://www.verkkokauppa.com) | Private | N/A | |
 | [Yhdistysavain](https://www.yhdistysavain.fi) | Private | N/A | WIP for 2.0 release |
 | [Zalando](https://www.zalando.fi) | Public | https://fabric-design.github.io/styleguide/ | Open Source |
