@@ -20,6 +20,7 @@ There isn’t a standard definition of “design system” within our community,
 | [Helsinki University](https://www.helsinki.fi/) | Public | https://static.helsinki.fi/ds/ | Alpha |
 | [Kesko](https://www.kesko.fi) | Private | N/A | WIP |
 | [Lähitapiola](https://www.lahitapiola.fi) | Public | https://www.duetds.com |
+| [Neste](https://www.neste.com) | Private | N/A |
 | [Nordea](https://www.nordea.fi) | Private | N/A | |
 | [Nordhealth](https://nordhealth.com) | Public | https://nordhealth.design | WIP |
 | [Nosto Solutions](http://www.nosto.com) | Private | N/A | WIP |
